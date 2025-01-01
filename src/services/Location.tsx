@@ -47,9 +47,10 @@ const useUserLocation = () => {
         // Metode pertama: Geolocation
         Geolocation.getCurrentPosition(
           async (position) => {
-            setLocation(position.coords);
-
+            console.log(position)
+            
             const {latitude, longitude} = position.coords
+            setLocation({ latitude, longitude });
 
             try {
                 const response = await axios.get(

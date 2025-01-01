@@ -1,0 +1,81 @@
+{
+    "Sholawat": [
+      {
+          "id" : 1,
+        "name": "Sholawat Ibrahimiyah",
+        "arab": "اَللَّهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى سَيِّدِنَا إِبْرَاهِيْمَ وَعَلٰى آلِ سَيِّدِنَا إِبْرَاهِيْمَ و بَارِكْ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى آلِ سَيِّدِنَا مُحَمَّدٍ كَمَا بَارَكْتَ عَلٰى سَيِّدِنَا إِبْرَاهِيْمَ وَعَلٰى آلِ سَيِّدِنَا إِبْرَاهِيْمَ فِيْ الْعَالَمِيْنَ إِنَّكَ حَمِيْدُ مَجِيْدٌ",
+        "latin" : "Allohumma solli ‘alaa muhammad, wa ‘alaa aali muhammad, kamaa sollaita ‘alaa aali ibroohim, wa baarik ‘alaa muhammad, wa ‘alaa aali muhammad, kamaa baarokta ‘alaa aali ibroohim, fil ‘aalamiina innaka hamiidummajiid.",
+        "arti" : "Ya Allah, limpahkanlah rahmat dan keselamatan untuk Nabi Muhammad. Dan juga limpahkanlah rahmat dan keselamatan kepada keluarga Muhammad, sebagaimana telah Engkau limpahkan rahmat dan keselamatan kepada Ibrahim dan kepada keluarga Ibrahim. Limpahkanlah keberkahan kepada Muhammad dan kepada keluarga Muhammad, sebagaimana Engkau telah melimpahkan keberkahan kepada Ibrahim dan kepada keluarga Ibrahim.Di seluruh alam semesta, sesungguhnya Engkau adalah Maha Terpuji lagi Maha Agung."
+      },
+      {
+          "id" : 2,
+          "name": "Sholawat Fatih",
+          "arab": "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ الفَاتِحِ لِمَا أُغْلِقَ وَالخَاتِمِ لِمَا سَبَقَ وَالنَّاصِرِ الحَقَّ بِالحَقِّ وَالهَادِي اِلَى صِرَاطٍ مُسْتَقِيْمٍ. صَلَّى اللهُ عَلَيْهِ وَعَلَى اَلِهِ وَأَصْحَابِهَ حَقَّ قَدْرِهِ وَمِقْدَارِهِ العَظِيْمِ",
+          "latin": "Allahumma sholli ala sayyidina muhammaddinil fatihi lima ughliqo wal khotimi lima sabaqo, nashiril haqqi bil haqqi wal hadi ila shirotikal mustaqim wa ala alihi haqqo qodrihi wa miq darihil adzim.",
+          "arti": "Ya Allah limpahkanlah rahmat dan keselamatan serta berkah kepada Nabi Muhammad SAW, sebagai pemuka sesuatu yang terkunci, dan penutup sesuatu (para nabi) yang terdahulu, dialah penolong yang benar dengan membawa kebenaran serta petunjuk menuju jalan-Mu yang lurus. Semoga Allah melimpahkan rahmat-Nya kepada keluarga dan para sahabatnya dengan sebenar-benarnya dengan pangkat dan kedudukan yang agung."
+      },
+      {
+          "id" : 3,
+          "name": "Sholawat Nuril Anwar",
+          "arab": "اللَّهُمَّ صَلِّ عَلَى نُورِ الأَنْوَارِ. وَسِرِّ الأَسِرَارِ. وَتِرْيَاقِ الأَغْيَارِ. وَمِفْتَاحِ بَابِ الْنَسَارِ. سَيِّدِنَا مُحَمَّدٍ الْمُخْتَارِ. وَآلِهِ الأَطْهَارِ. وَأَصْحَابِهِ الأَخْيَارِ. عَدَد نِعَمِ الله وَأِفْضَالِهِ",
+          "latin": "Allahumma Shalli Alaa Nuuril Anwaari Wasirril Asraari, Watiryaaqil Aghyaari Wamiftaahi Baabil Yasaari, Sayyidinaa Wamaulaana Muhammadinil Muhtaari Wa Aalihil Ath Haari Wa Ash Haabihil Ahyaari Adada Niamillaahi Wa Ifdhaalih.",
+          "arti": "Ya Allah, limpahkanlah rahmat kepada cahaya dari segala cahaya, belakang layar dari segenap rahasia, penawar sedih dan kebingungan, pembuka pintu kemudahan, yakni junjungan kami, Nabi Muhammad SAW yang terpilih, keluarganya yang suci, dan para sahabatnya yang mulia sebanyak hitungan nikmat Yang Maha Kuasa dan karunia-Nya."
+      },
+      {
+          "id" : 4,
+          "name": "Sholawat Quthul Aqthab",
+          "arab": "اَللّٰـهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ فِى اْلأَوَّلِيْنَ وَصَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ فِى اْلآخِرِيْنَ وَصَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ فِى اْلـمُرْسَلِيْنَ وَصَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ فِى الْمَلَإِ اْلأَعْلٰى إِلٰى يَوْمِ الدِّيْنَ",
+          "latin": "Allahumma sholli 'alaa sayyidinaa muhammadin fil awwaliin wa sholli 'alaa sayyidina muhammadin fil aakhiriinaa wa sholli 'alaa sayyidinaa muhammadin fin nabiyyin wa sholli 'alaa sayyidina muhammadin fil mursaliin, wa sholli ‘alaa sayyidina muhammadin fil malail a'laa ilaa yaumiddiin.",
+          "arti": "Ya Allah, berikan rahmat ta'dzim kepada junjungan kita Nabi Muhammad SAW, di masa-masa permulaan dan berikan rahmat kepada Nabi Muhammad SAW, di masa-masa penghabisan. Dan berikan rahmat kepada Nabi Muhammad SAW sebagai utusan serta berikan rahmat kepada Nabi Muhammad SAW dan kepada orang-orang yang memiliki kemuliaan sampai hari kiamat."
+      },
+      {
+          "id" : 5,
+          "name": "Sholawat Nariyah",
+          "arab": "اللَّهُمَّ صَلِّ صَلاَةً كَامِلَةً وَسَلِّمْ سَلاَمًا تَامًّا عَلىَ سَيِّدِنَا مُحَمَّدٍ الَّذِيْ تُنْحَلُ بِهَ الْعُقَدُ وَتَنْفَرِجُ بِهِ الْكُرَبُ وَتُقْضَى بِهِ الْحَوَائِجُ وَتُنَالُ بِهِ الرَّغَائِبُ وَحُسْنُ الْخَوَاتِيْمِ وَيُسْتَسْقَى الْغَمَامُ بِوَجْهِهِ الْكَرِيْمِ وَعَلىَ آلِهِ وَصَحْبِهِ عَدَدَ كُلِّ مَعْلُوْمٍ لَكَ",
+          "latin": "Allahumma shollì sholaatan kaamìlatan Wa sallìm salaaman taaman ‘ala sayyìdìnaa Muhammadìn Alladzì tanhallu bìhìl ‘uqadu, wa tanfarìju bìhìl kurabu. Wa tuqdhaa bìhìl hawaa’ìju Wa tunaalu bìhìr raghaa’ìbu wa husnul khawaatìmì wa yustasqal ghomaamu bì wajhìhìl karììmì, wa ‘alaa aalìhì, wa shahbìhì ‘adada kullì ma’luumìn laka.",
+          "arti": "Ya Allah, berikanlah sholawat yang sempurna dan salam yang sempurna kepada junjunganku Baginda Nabi Muhammad yang dengannya terlepas dari ikatan (kesusahan) dan dibebaskan dari kesulitan. Dan dengannya juga ditunaikan hajat dan diperoleh segala keinginan dan kematian yang baik, serta memberi siraman (kebahagiaan) kepada orang yang sedih dengan wajahnya yang mulia, juga kepada keluarganya, para shahabatnya, dengan seluruh ilmu yang Engkau miliki."
+      },
+      {
+          "id" : 6,
+          "name": "Sholawat Munjiyat",
+          "arab": "اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ صَلاَةٌ تُنْجِيْنَا بِهَا مِنْ جَمِيْعِ الْاَهْوَالِ وَالْاٰفَاتِ وَتَقْضِيْ لَنَابِهَاجَمِيعَ الْحَاجَاتِ وَتُطَهِّرُنَابِهَا مِنْ جَمِيْعِ السَيِّئَاتِ وَتَرْفَعُنَابِهَا عِنْدَكَ اَعْلَى الدَّرَجَاتِ وَتُبَلِّغُنَابِهَا اَقْصَى الْغَايَاتِ مِنْ جَمِيْعِ الْخَيْرَاتِ فِى الْحَيَاةِ وَبَعْدَ الْمَمَاتِ",
+          "latin": "Allahumma sholli ‘alaa sayyidinaa Muhammadin sholaatan tunjiinaa bihaa min jamii’il-ahwaali wal-aafaati wa taqdhii lanaa bihaa jamii’al-haajaati wa tuthahirunaa bihaa min jamii’is-sayyi’aati wa tarfa’unaa bihaa ‘indaka a’lad-darajaati wa tuballigunaa bihaa aqshal-gaayaati min jamii’il-khairaati fil-hayaati wa ba’dal-mamaati.",
+          "arti": "Ya Allah, limpahkanlah rahmat kepada junjungan kami Nabi Muhammad SAW yang melaluinya Engkau akan menyelamatkan kami dari semua keadaan yang menakutkan dan membahayakan. Dengan rahmat itu Engkau akan mendatangkan semua hajat kami dan membersihkan semua keburukan kami, mengangkat kami pada derajat tertinggi, menyampaikan kami pada puncak tujuan, dari semua kebaikan di waktu hidup dan sesudah mati."
+      },
+      {
+          "id" : 7,
+          "name": "Sholawat Al-Matsuroh",
+          "arab": "أللّٰـهُمَّ صَلِّ عَلٰى مُحّمَّدٍ نِالنَّـبِىِ اْلأُمِّىِّ وَعَلٰى اٰلِهِ وَسَلِّمْ",
+          "latin": "Alloohumma sholli 'alaa muhammadin niin nabiyil ummiyyi wa 'alaa aalihi wa sallim.",
+          "arti": "Ya Allah, limpahkanlah sholawat kepada Muhammad yang tiada dapat membaca dan menulis (Ummy) dan semoga keselamatan tercurah kepada segenap keluarganya."
+      },
+      {
+          "id" : 8,
+          "name": "Sholawat Mukafaah",
+          "arab": "اَللّٰـهُمَّ صَلِّ عِلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى أٰلِ سَيِّدِنَا مُحَمَّدٍ صَلَاةً دَائِمَةً مَقْبُوْلَةً تُـؤَدِّى بِهَا حَقَّهُ الْعَظِيْمِ",
+          "latin": "Allohumma sholli ala sayidina muhammadin wa ala alihi sayidina muhammad, sholatan maqbulatan tu,addi biha anna haqqohul adzim.",
+          "arti": "Ya Allah, limpahkanlah rahmat, salam dan berkah kepada junjungan kita Muhammad SAW yang ummi (tidak bisa baca tulis) yang menjadi kekasih Allah SWT, yang luhur pangkatnya dan yang agung kemuliaannya, dan limpahkanlah pula atas keluarganya dan para sahabatnya."
+      },
+      {
+          "id" : 9,
+          "name": "Sholawat Thibbil Qulub",
+          "arab": "اللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ طِبِّ الْقُلُوْبِ وَدَوَائِهَا، وَعَافِيَةِ الْاَبْدَانِ وَشِفَائِهَا، وَنُوْرِ الْاَبْصَارِ وَضِيَائِهَا، وَعَلٰى اٰلِهِ وَصَحْبِهِ وَسَلِّم",
+          "latin": "Allahumma sholli 'alaa Sayyidinaa Muhammadin thibbil qulubi wa dawa ihaa wa'aafiyatil abdaani wa shifaa ihaa wa nuuril abshoori wa dhiyaa ihaa wa 'alaa aalihi wa shohbihi wa sallim.",
+          "arti": "Ya Allah limpahkanlah rahmat kepada junjungan kami Nabi Muhammad SAW, sebagai obat hati dan penyembuhnya, penyehat badan dan kesembuhannya, sebagai penyinar penglihatan mata beserta cahayanya. Dan semoga rahmat tercurah limpahkan kepada para sahabat beserta keluarganya."
+      },
+      {
+          "id" : 10,
+          "name":"Sholawat Jibril",
+          "arab": "صَلَّى اللهُ عَلَى مُحَمَّد",
+          "latin": "Shallallaahu ‘ala Muhammad",
+          "arti": "(Ya Allah) berikanlah tambahan rahmat-Mu kepada junjungan kami Nabi Muhammad."
+      },
+      {
+          "id" : 11,
+          "name": "Sholawat Nuridzati",
+          "arab": "اَللّٰهُمَّ صَلِّى وَسَلِّمْ وَبَارِكْ عَلىٰ سّيِّدِنَا مُحَمَّدِ نِالنُّوْرِ الذَّاتِى وَالسِّرِّ السَّارِى فِى سَائِرِ الْأَسْمَاءِ وَالصِّفَاتِ وَعَلىٰ اٰلِهِ وَصَحْبِهِ أَجْمَعِيْنَ",
+          "latin": "Allahumma Sholli Wa Sallim Wa Baarik ‘Ala Sayyidinaa Muhammadin-Nuridzaati Wassirris Saari Fii Saairil Asmaai Washifaati Wa ‘Ala Aalihi Wa Shohbihi Ajma'in",
+          "arti": "Ya Allah tambahkanlah kesejahteraan, keselamatan serta keberkahanMU kepada junjungan kami Baginda Nabi Muhammad shallallahu alaihi wa salam, yang merupakan cahaya Dzat (Allah) dan juga rahasia yang mengalir pada seluruh nama dan seluruh sifat, dan tambahkanlah pula kesejahteraan, keselamatan dan keberkahan kepada keluarga dan sahabatnya semua."
+      }
+    ]
+  }

@@ -10,7 +10,7 @@ interface FeatureCardProps {
 export const FeatureCard = React.memo(
   ({title, description, image}: FeatureCardProps) => {
     return (
-      <Box bg={'white'} shadow={'lg'} mb={4} p={4} rounded={'lg'}>
+      <Box bg={'white'} shadow={'2'} mb={4} p={4} rounded={'lg'}>
         <HStack space={6} alignItems={"center"}>
             <Image w={"16"} h={"16"} resizeMode='contain' source={image} />
           <VStack>
