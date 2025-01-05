@@ -3,6 +3,7 @@ import { createNativeStackNavigator } from "@react-navigation/native-stack";
 const { Navigator, Screen } = createNativeStackNavigator()
 
 import Dashboard from "./dashboard/Index";
+import MainHeader from "../components/molecul/MainHeader";
 
 const Index = React.memo(() => {
     return (
