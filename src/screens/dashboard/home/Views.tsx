@@ -16,6 +16,7 @@ import {useQuery} from '@tanstack/react-query';
 import axios from '../../../libs/axios';
 import {FeatureGrid} from '../../../components/molecul/FeatureGrid';
 import {useUserLocation} from '../../../services/Location';
+import { useTabBarStore } from '../../../services/useTabBarStore';
 
 interface JadwalSholat {
   date?: string;
@@ -159,9 +160,12 @@ const Views = React.memo(() => {
               </View>
               <Text fontWeight={"medium"}>{prayerTimes?.jadwal.tanggal}</Text>
               <Text fontWeight={"medium"}>{hijrDate?.date[1]}</Text>
+              <VStack space={2} alignItems={"center"}>
+              <Text fontSize={"lg"} textTransform={"capitalize"} fontWeight={"medium"}>Menuju waktu sholat {nextTime.name}</Text>
+              <Text fontSize={"lg"} fontWeight={"medium"}>{countdown}</Text>
+            </VStack>
             </VStack>
           </Box>
-
           <FeatureGrid />
         </VStack>
       </ScrollView>
